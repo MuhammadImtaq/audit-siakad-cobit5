@@ -1,0 +1,6 @@
+Domain,Kode Proses,Nama Proses,Fokus Audit SIAKAD,Auditor_1_Head_IT,Auditor_2_SysAdmin,Auditor_3_Developer,Auditor_4_Helpdesk,Target_To_Be
+APO,APO12,Manage Risk,Mitigasi risiko gangguan server saat pengisian KRS serentak,2.4,2.2,2.5,2.1,4.0
+BAI,BAI06,Manage Changes,Pengelolaan pembaruan fitur dan perbaikan bug SIAKAD,2.8,2.6,3.0,2.6,3.0
+DSS,DSS01,Manage Operations,Pengawasan operasional harian jaringan dan server kampus,3.1,3.3,3.0,3.0,4.0
+DSS,DSS02,Manage Service Requests and Incidents,Penanganan tiket kendala login dan input nilai oleh helpdesk,2.6,2.5,2.4,2.9,4.0
+DSS,DSS05,Manage Security Services,Perlindungan hak akses akun dan kerahasiaan data akademik,2.9,3.1,2.8,2.8,4.0
